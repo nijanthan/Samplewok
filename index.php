@@ -5,7 +5,7 @@
 <title>index</title>
 </head>
 
-<body style="width:100%;height:600px;background:url(../../my%20work/Untitled-1.jpg)">
+<body style="width:100%;height:600px;background:url(Untitled-1.jpg)">
 
 <div style="margin:auto; width:200px;height:200px;">
 <?php 
