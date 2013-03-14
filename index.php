@@ -13,6 +13,7 @@
 
 echo "<h1>PlUSKB INNOOVATIOM</h1> ";
 echo "<br /> Bangaklore";
+echo "HSR layout";
 ?>
 </div>
 </body>
