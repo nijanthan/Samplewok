@@ -38,7 +38,7 @@ if(isset($_POST['login']))
 <body id="body">
 <div class="form" ><br />
 
-<h1>&nbsp;&nbsp;PLUSKB INNOOVATION</h1>
+<h1>&nbsp;&nbsp;PLUSKB INNOVATION</h1>
 <div class="container" >
 
 <form action="" method="post">
