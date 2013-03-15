@@ -13,7 +13,7 @@ if(isset($_POST['login']))
 	{
 		?>
         <script>
-		alert("Invalid User 
+		alert("Invalid User name and password");
         </script>
         <?php
 		
