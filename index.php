@@ -9,6 +9,7 @@ if(isset($_POST['login']))
 	$sql="select * from login where email='".$name."' and password='".$pass."'";
 	$connect=mysql_query($sql);
 	$num=mysql_num_rows($connect);
+	mysql_close();
 	if($num==0)
 	{
 		?>
